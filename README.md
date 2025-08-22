@@ -6,6 +6,7 @@ Requerimientos de la pagina
 
 1. La pagina web debe tener Titulos y subtitulos.
 2. Debe tener un fondo sin usar CSS.
+3. Debe tener secciones y un menu, al darle clic al menu debo poder movilizarme a la seccion correspondiente
 4. Debe tener formulario con los siguientes campos: (Cuadro de texto, fechas, checkbox, Radio Button). Debe existir un boton de envio de formulario. Los cuadros de texto deben tener placeholder
 5.Debe tener hipervinculos hacia la pagina del SENA.
 6.Debe tener hipervinculos hacia videos.
